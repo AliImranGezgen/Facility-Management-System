@@ -1,0 +1,55 @@
+# --- GENEL & İŞLETİM SİSTEMİ DOSYALARI ---
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# --- FRONTEND (React/Vite/Node) ---
+# Bağımlılıklar (Çok yer kaplar, yüklememelisin)
+frontend/node_modules/
+node_modules/
+
+# Derleme çıktıları (Build aldığında oluşur)
+frontend/dist/
+frontend/build/
+dist/
+build/
+
+# Yerel ortam değişkenleri (Şifreler vb. içerir, asla yükleme)
+frontend/.env
+frontend/.env.local
+.env
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test kapsama alanları
+coverage/
+
+# --- BACKEND (Python/FastAPI) ---
+# Python derleme dosyaları (Gereksizdir)
+backend/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortam (Virtual Environment - Çok yer kaplar)
+backend/venv/
+backend/.venv/
+backend/env/
+venv/
+.venv/
+env/
+
+# Backend ortam değişkenleri
+backend/.env
+
+# Pytest önbelleği
+.pytest_cache/
+
+# Veritabanı (Eğer SQLite kullanırsan yanlışlıkla yükleme diye)
+*.sqlite3
+*.db
