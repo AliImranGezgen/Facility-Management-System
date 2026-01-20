@@ -100,11 +100,11 @@ npm run dev
 
 | Genel Bakış (Dashboard) | Simülasyon Modu |
 |:---:|:---:|
-| ![Dashboard](./screenshots/dashboard.png) | ![Simulation](./screenshots/simulation.png) |
+| ![Dashboard](./screenshots/dashboard.jpg) | ![Simulation](./screenshots/simulation.jpg) |
 | *Canlı veri akışı ve KPI takibi* | *Senaryo bazlı analiz ve tahminleme* |
 
 | Varlık Sağlığı | Güvenlik & Bakım |
 |:---:|:---:|
-| ![Asset Health](./screenshots/asset-health.png) | ![Security](./screenshots/security.png) |
+| ![Asset Health](./screenshots/asset-health.jpg) | ![Security](./screenshots/security.jpg) |
 | *Önleyici bakım ve cihaz durumu* | *Kritik olay yönetimi* |
 
