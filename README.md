@@ -50,7 +50,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/kullaniciadiniz/tesis-yonetim-sistemi.git](https://github.com/kullaniciadiniz/tesis-yonetim-sistemi.git)
+git clone https://github.com/AliImranGezgen/Facility-Management-System
 cd tesis-yonetim-sistemi
 ```
 
